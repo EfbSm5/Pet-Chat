@@ -1,3 +1,21 @@
+forked from Jetchat  
+需要实现的功能：  
+1. 基本的聊天界面（需要UI布局，考虑功能）
+2. 可以发送通知
+3. 可以创建service实现自动创建一些新消息
+4. 接入大语言模型api,实现对宠物的模拟
+5. 接入ai画图？
+6. 生成随机宠物好友，并有对应的朋友圈
+7. 储存对话信息
+
+
+
+
+
+
+
+
+
 <img src="screenshots/jetchatlogo.png"/>
 
 # Jetchat sample
